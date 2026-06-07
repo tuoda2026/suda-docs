@@ -48,3 +48,5 @@ docs_dir: docs
 nav:
   - 首页: index.md
   - 使用指南: USAGE.md
+  - 隐私政策: privacy.md
+  - 服务条款: terms.md
